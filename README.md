@@ -8,7 +8,7 @@ Some fragment scripts
 try{
   something
 }catch(e){
-  windows.loaction.href =
+  window.location.href =
   "http://stackoverflow.com/search?q=[js]+" + e.message;
 }
 ```
