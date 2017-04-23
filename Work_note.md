@@ -145,3 +145,39 @@ Review photo部分的代码，学习Material UI的Dialog写法
 ### 20170407
 
 重构PhotoDetail，继续优化photoList loading
+
+### 20170411
+
+对PhotoList添加跳转Top和Bottom的按钮
+
+### 20170412
+
+开会讨论新的整体界面设计，学习带session的ipc消息传递
+
+### 20170413
+
+重构Node端的media.js包括获取缩略图和清晰图
+
+### 20170414
+
+添加PhotoList的时间Box，修复滚动条Bug
+
+### 20170417
+
+整理代码，移除废弃或无用代码，merge代码
+
+### 20170418
+
+开会、学习MVVM与状态机模式
+
+### 20170419
+
+添加时间轴，同步鼠标、滚动条状态
+
+### 20170420
+
+对时间轴添加更多的Feature
+
+### 20170421
+
+添加PhotoDetail的动画效果，优化时间轴中的日期列表
