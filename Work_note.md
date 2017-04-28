@@ -189,3 +189,15 @@ Review photo部分的代码，学习Material UI的Dialog写法
 ### 20170425
 
 merge代码，和马老师review代码，建立前后端集成的调试环境
+
+### 20170426
+
+修复新API带来的bug，着手重构Photo代码
+
+### 20170427
+
+拆分photo的model，修复Navigation传参相关bug
+
+### 20170428
+
+更新node-browser media 相关API，重构Photo代码
