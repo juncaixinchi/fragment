@@ -1,5 +1,7 @@
 # Work Records in Wisnuc
 
+[TOC]
+
 ## Week 1
 
 ### 20170220
@@ -110,6 +112,8 @@ Review photo部分的代码，学习Material UI的Dialog写法
 
 更新Maintenance页面里安装或重新安装wisnuc的对话框
 
+## Week 6
+
 ### 20170327
 
 与马老师讨论，重写pureDialog，主要利用CSS来控制居中等设计
@@ -134,6 +138,8 @@ Review photo部分的代码，学习Material UI的Dialog写法
 
 将react-virtualized-list应用于render照片的列表
 
+## Week 7
+
 ### 20170405
 
 修复调整窗口大小引起的bug，优化photoList loading
@@ -145,6 +151,8 @@ Review photo部分的代码，学习Material UI的Dialog写法
 ### 20170407
 
 重构PhotoDetail，继续优化photoList loading
+
+## Week 8
 
 ### 20170411
 
@@ -161,6 +169,8 @@ Review photo部分的代码，学习Material UI的Dialog写法
 ### 20170414
 
 添加PhotoList的时间Box，修复滚动条Bug
+
+## Week 9
 
 ### 20170417
 
@@ -182,6 +192,8 @@ Review photo部分的代码，学习Material UI的Dialog写法
 
 添加PhotoDetail的动画效果，优化时间轴中的日期列表
 
+## Week 10
+
 ### 20170424
 
 与mark讨论时间轴的设计，调整日期格式，添加淡入淡出效果
@@ -201,3 +213,17 @@ merge代码，和马老师review代码，建立前后端集成的调试环境
 ### 20170428
 
 更新node-browser media 相关API，重构Photo代码
+
+## Week 11
+
+### 20170502
+
+测试album，修复mediaShare的bug，但讨论后决定暂时close mediaShare
+
+### 20170503
+
+修复node/lib/media.js中response时机不对的bug，修复PhotoList的width造成的bug
+
+### 20170504
+
+根据新api，修复maintenance页面
