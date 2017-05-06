@@ -227,3 +227,7 @@ merge代码，和马老师review代码，建立前后端集成的调试环境
 ### 20170504
 
 根据新api，修复maintenance页面
+
+### 20170505
+
+继续移植、修复maintenance页面API
