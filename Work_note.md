@@ -251,3 +251,23 @@ merge代码，和马老师review代码，建立前后端集成的调试环境
 ### 20170512
 
 为PhotoList部分添加momeize
+
+### 20170515
+
+为PhotoDetail添加键盘动作，增加AccountApp
+
+### 20170516
+
+添加修改密码与用户名的功能，完善新建共享盘的功能，添加菜单选项到
+
+### 20170517
+
+重构AdminUser、device、AdminDrives、Network、TimeDate部分代码
+
+### 20170518
+
+添加更新共享盘的功能，添加菜单选项到AdminDrives
+
+### 20170519
+
+添加snackbar。重构Power部分代码
