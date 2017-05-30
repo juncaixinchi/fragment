@@ -271,3 +271,27 @@ merge代码，和马老师review代码，建立前后端集成的调试环境
 ### 20170519
 
 添加snackbar。重构Power部分代码
+
+### 20170522
+
+重构PowerOff，调整DriversDetail
+
+### 20170523
+
+修改media相关bug，整理代码，移除consolelog
+
+### 20170524
+
+添加用户名、密码、文件名的限制
+
+### 20170525
+
+添加文件的详细页FileDetail
+
+### 20170526
+
+修改issue提交的bug，添加缩略图至FileDetail
+
+### 20170527
+
+调整photo页面，添加分辨率信息至FileDetail
