@@ -295,3 +295,15 @@ merge代码，和马老师review代码，建立前后端集成的调试环境
 ### 20170527
 
 调整photo页面，添加分辨率信息至FileDetail
+
+### 20170531
+
+撰写fruitmix-desktop的文档，主要是源码详解部分
+
+### 20170601
+
+撰写fruitmix-desktop的文档，补充架构部分
+
+### 20170602
+
+抽提出BreadCrumb，对文件夹添加名称限制
