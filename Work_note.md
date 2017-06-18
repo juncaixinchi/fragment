@@ -327,3 +327,23 @@ merge代码，和马老师review代码，建立前后端集成的调试环境
 ### 20170609
 
 重构移动的dialog，修复bug，包括issue #335, #326, #318
+
+### 20170612
+
+撰写fruitmix-desktop文档，添加api与状态机模型
+
+### 20170613
+
+继续撰写fruitmix-desktop文档，对transmission添加shift操作
+
+### 20170614
+
+修复bug，更新transmission的更新方式
+
+### 20170615
+
+移除前端的redux相关代码，清理无用代码，修改目录结构
+
+### 20170616
+
+修复mdns的bug，修复config相关内容
