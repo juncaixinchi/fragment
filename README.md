@@ -2,6 +2,12 @@
 
 Some fragment scripts
 
+## change dir own to current user
+
+```bash
+sudo chown -R $USER:$(id -gn $USER) ~/dir
+```
+
 ## JS-exception-handler
 
 ```javascript
